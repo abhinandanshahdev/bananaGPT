@@ -1,0 +1,6 @@
+functions-framework==3.*
+google-cloud-aiplatform
+google-cloud-storage
+scikit-learn
+numpy
+Pillow==8.3.2
