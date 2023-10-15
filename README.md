@@ -1,5 +1,7 @@
 # bananaGPT
-BananaGPT is a computer vision application that checks for ripeness of bananas using google's vertex ai multi modal embeddings and cosine similarity. 
+BananaGPT is a computer vision application that checks for ripeness of bananas using google's vertex ai multi modal embeddings and cosine similarity. It can automatically schedule checks every few minutes or hours, and then send a whatsapp message when it finds something meaningful. 
+
+This is a very basic implementation meant for educational purposes only. I have not tested the app for memory leaks or battery drains and I would not be responsible for any issues. 
 
 The solution has 2 parts: 
 
